@@ -1,0 +1,26 @@
+{
+  "name": "domp",
+  "version": "1.0.0",
+  "description": "domp ====",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gl-mat4": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jam3/domp.git"
+  },
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/domp/issues"
+  },
+  "homepage": "https://github.com/Jam3/domp"
+}
